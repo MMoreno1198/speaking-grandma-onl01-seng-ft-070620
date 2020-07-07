@@ -4,7 +4,9 @@ def speak_to_grandma(phrase)
   binding.pry
   
   if phrase.upcase != phrase
-     "HUH?! SPEAK UP, SONNY!"
+      "HUH?! SPEAK UP, SONNY!"
+     
+     elsif 
 
   end
 end
