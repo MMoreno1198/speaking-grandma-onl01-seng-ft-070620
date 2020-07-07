@@ -9,7 +9,7 @@ def speak_to_grandma(phrase)
      elsif phrase == "I LOVE YOU GRANDMA!"
       "I LOVE YOU PUMPKIN!"
     
-  else 
+  else phrase == 
   end
 end
 
